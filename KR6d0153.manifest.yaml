@@ -1,0 +1,111 @@
+canonical_identifier: bkk:krp/KR6d0153/v1
+canonical_location: https://kanripo.org/bkk/KR6d0153/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大乘止觀法門宗圓記
+  identifiers:
+    alt_id:
+    - X55n0904
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X55/X55n0904.xml
+    old_id: X55n0904
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0153_000.yaml, hash: 'sha256:58acda11fb0b0b0eb75f266e7ef40c30adf98252bb4986fa4d483b6baa1ca4c6'}
+  - {seq: 1, filename: KR6d0153_001.yaml, hash: 'sha256:4343442e6c7c5f56626aec7104c2eec7e62df8cf967cb117f92c8b03ebe61d2b'}
+  - {seq: 2, filename: KR6d0153_002.yaml, hash: 'sha256:46059fda0bfcba8804669e8e6b549b8384d93b420f774e1873990ad94cead989'}
+  - {seq: 3, filename: KR6d0153_003.yaml, hash: 'sha256:b51789328de944581f863238b970457c8a39406bd2163e4f115049f72b99d13d'}
+  - {seq: 4, filename: KR6d0153_004.yaml, hash: 'sha256:1f4b0da266e218cea3b809891c9173a66d849e4056a41ecdb9fdeab86345a914'}
+  - {seq: 5, filename: KR6d0153_005.yaml, hash: 'sha256:491aab0cb62a54cee9a403f046514ac98ef8eef608c5ae94352c5130cae9847c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0153_000.markers.yaml, hash: 'sha256:5f84e44a9f36f0c89c98f0a62e9fc1990c222b5153a84a6dc693b3aa220a8dc4'}
+  - {seq: 1, role: markers, filename: assets/KR6d0153_001.markers.yaml, hash: 'sha256:059a24bb2a05d15aac0d50b1285a2866782adaff2cc127d7032695e9284a6fbc'}
+  - {seq: 2, role: markers, filename: assets/KR6d0153_002.markers.yaml, hash: 'sha256:926a68f8c373d2c038efcf2d3230be3b5edbdd468135017ef1119d6634b499d3'}
+  - {seq: 3, role: markers, filename: assets/KR6d0153_003.markers.yaml, hash: 'sha256:2cb7d3fbe4f4473096a98bb2fb9bdee334dc5df29571b0b379ddb85010895d2c'}
+  - {seq: 4, role: markers, filename: assets/KR6d0153_004.markers.yaml, hash: 'sha256:452b1ade359119db15b076b31468880141065852a9f15c9743bc98f2803be221'}
+  - {seq: 5, role: markers, filename: assets/KR6d0153_005.markers.yaml, hash: 'sha256:8ee3fbe7ea201e6e248b6ceae7d4868b3fbfd94daa0d7252543f0e7ff1ee0700'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0153_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 904-A 大乘止觀法門宗圓記條箇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0153_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 19547
+  label: 大乘止觀法門宗圓記卷第一并序
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0153_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 大乘止觀法門宗圓記
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0153_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 23017
+  label: 大乘止觀法門宗圓記卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0153_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 23356
+  label: 大乘止觀法門宗圓記卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0153_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 20501
+  label: 大乘止觀法門宗圓記卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0153_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 20730
+  label: 大乘止觀法門宗圓記卷第五
+  type: juan
+  level: 1
+hash: sha256:d18ff211011bf5504572e8ecfde93b91234af7aa7804848d22a497640590e23a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
