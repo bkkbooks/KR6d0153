@@ -19,14 +19,14 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0153_000-X.yaml, hash: 'sha256:bda8849b6766db7ea842800318d79b179100082d404ac1ae879c8937a8a76eed'}
+  - {seq: 0, filename: KR6d0153_000-X.yaml, hash: 'sha256:008cc0f8bdd21ebcdac226cf6deab25c339de2aa6471c93aaa81593ffa9b4a01'}
   - {seq: 1, filename: KR6d0153_001-X.yaml, hash: 'sha256:9009d46806494a7b8a62370ab8c637f78005970f5017d1cea8273e98b66f0177'}
   - {seq: 2, filename: KR6d0153_002-X.yaml, hash: 'sha256:4babd544798fc0838b437127adc9ecaf4aa23aba0bbf545de9e20bc94da6b27e'}
   - {seq: 3, filename: KR6d0153_003-X.yaml, hash: 'sha256:f047fdbf28fd61ca4ba964c34c225ecc828140da56c98fc87d1ccdf89a2568b6'}
   - {seq: 4, filename: KR6d0153_004-X.yaml, hash: 'sha256:fd7f6bdac695ec7afe561789629ac50d45b6f8a1a52316325e5bd91449c8cb33'}
   - {seq: 5, filename: KR6d0153_005-X.yaml, hash: 'sha256:d32fe09707f14f8fbc65849859791b65e7efbbc7a0910594f11d9e5b296d067f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0153_000-X.markers.yaml, hash: 'sha256:4178317e55fd42edc1dc095615c3a6a89f06389043cb5a35a8f16e1104ed0db8'}
+  - {seq: 0, role: markers, filename: assets/KR6d0153_000-X.markers.yaml, hash: 'sha256:1cb59d23019651ac5a5c3377fc6cc6e8abda6ef3117faba4af37009930b71d55'}
   - {seq: 1, role: markers, filename: assets/KR6d0153_001-X.markers.yaml, hash: 'sha256:326b1f648afa6de430c8362abdb8bc9c03e4b3329a366df0e92b216a60605fde'}
   - {seq: 2, role: markers, filename: assets/KR6d0153_002-X.markers.yaml, hash: 'sha256:f1644942ef8b4f1c670ba75a93f6a0b98e4be1c451e83e50acf40386fb2db0a3'}
   - {seq: 3, role: markers, filename: assets/KR6d0153_003-X.markers.yaml, hash: 'sha256:8744ca57b3421f096523969e73c87ab41463dced7062a82e14152aefabf35c2a'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0153_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 904-A 大乘止觀法門宗圓記條箇
@@ -103,4 +103,4 @@ table_of_contents:
   label: 大乘止觀法門宗圓記卷第五
   type: juan
   level: 1
-hash: sha256:eb725bd0c604c19169e493a568b2405ccb74a6279f3943aae20c14ddfcc10939
+hash: sha256:021185ab619b7d5d828e7688f99e7b301eb1e552717fd862626f1919841e1707
